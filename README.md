@@ -26,5 +26,6 @@ I am actively seeking opportunities in data analytics where I can apply my skill
 
 ## Contact 📬
 
-- **LinkedIn:** [www.linkedin.com/in/sreeraman-t](#)
+- [LinkedIn](www.linkedin.com/in/sreeraman-t)
+
 - **Email:** sreeramt25@gmail.com
