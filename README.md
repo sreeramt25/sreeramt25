@@ -1,6 +1,6 @@
 
 
-I’m Sreeraman T., a Mechanical Engineering graduate (2023) with a passion for data analytics and a knack for uncovering insights through data. My background in engineering has equipped me with strong analytical skills, and my deep dive into data analytics has further honed my abilities in Excel, SQL, Python, Power BI, and statistics. I thrive on transforming raw data into actionable insights, and I’m excited about leveraging my skills to drive data-driven decision-making. With hands-on experience in analyzing various datasets and visualizing complex metrics, I’m eager to contribute to innovative projects and grow within the dynamic field of data analytics.
+I’m Sreeraman T, a Mechanical Engineering graduate (2023) with a passion for data analytics and a knack for uncovering insights through data. My background in engineering has equipped me with strong analytical skills, and my deep dive into data analytics has further honed my abilities in Excel, SQL, Python, Power BI, and statistics. I thrive on transforming raw data into actionable insights, and I’m excited about leveraging my skills to drive data-driven decision-making. With hands-on experience in analyzing various datasets and visualizing complex metrics, I’m eager to contribute to innovative projects and grow within the dynamic field of data analytics.
 
 ## Projects 🚀
 
