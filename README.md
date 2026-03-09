@@ -1,30 +1,49 @@
+## 👋 About Me
 
+Hi, I'm **Sreeraman T**, a data  enthusiast who enjoys working with data to uncover insights and solve real-world problems. My focus is on analyzing datasets, building dashboards, and applying statistical and machine learning techniques to support data-driven decisions.
 
-I’m Sreeraman T, a Mechanical Engineering graduate (2023) with a passion for data analytics and a knack for uncovering insights through data. My background in engineering has equipped me with strong analytical skills, and my deep dive into data analytics has further honed my abilities in Excel, SQL, Python, Power BI, and statistics. I thrive on transforming raw data into actionable insights, and I’m excited about leveraging my skills to drive data-driven decision-making. With hands-on experience in analyzing various datasets and visualizing complex metrics, I’m eager to contribute to innovative projects and grow within the dynamic field of data analytics.
+I have hands-on experience with **Excel, SQL, Python, Power BI, and Statistics**, and I enjoy transforming raw data into meaningful insights through analysis and visualization.
 
-## Projects 🚀
+---
 
-- **Freshco Hypermarket Analysis:** 📊 Conducted a comprehensive analysis of Freshco Hypermarket's home delivery service, optimizing order completion, customer understanding, and delivery efficiency.
+## 🚀 Projects
 
-- **Airline Analysis:** ✈️ Analyzed an Airline database to optimize operations and derive strategic insights, identifying critical flight IDs and airports for operational focus.
+### 📊 Freshco Hypermarket Analysis
+Analyzed home delivery transaction data to improve order completion, customer segmentation, and delivery efficiency.
 
-- **Funnel Analysis (Swiggy 2019 Performance):** 📈 Performed Funnel Case Study analysis for Swiggy to enhance growth and strategy, gaining insights into order volumes and traffic sources.
+### ✈️ Airline Performance Analysis
+Explored airline operational data using SQL to identify key flight routes and airports impacting performance.
 
-- **Power BI Dashboard for Sales Analysis (Adventure Works):** 📉 Designed Power BI dashboards to visualize sales metrics, analyze trends with DAX formulas, and enhance decision-making for improved revenue.
+### 📈 Funnel Analysis (Swiggy 2019 Case Study)
+Performed funnel analysis to understand traffic sources, order conversion, and potential growth opportunities.
 
-## Skills 🛠️
+### 📉 Sales Dashboard – Adventure Works
+Built interactive **Power BI dashboards** using DAX to analyze sales trends and support business decision-making.
 
-- **Excel:** Advanced skills in data manipulation, pivot tables, and formula creation.
-- **SQL:** Proficient in writing complex queries for data extraction, transformation, and analysis.
-- **Python:** Intermediate knowledge, with a focus on data analysis libraries like Pandas and NumPy.
-- **Power BI:** Experience in creating interactive dashboards and visualizations.
-- **Statistics:** Solid understanding of statistical concepts and their application in data analysis.
+### 🎬 Netflix Data Analysis
+Explored a Netflix dataset using Python to analyze content distribution, genre trends, and release patterns through data cleaning and visualization.
 
-## Career Goals 🎯
+### 💳 Credit Card Fraud Detection
+Built a **machine learning model** to detect fraudulent credit card transactions using Logistic Regression and Random Forest, focusing on handling imbalanced data and optimizing business cost.
 
-I am actively seeking opportunities in data analytics where I can apply my skills and continue to grow in a dynamic and challenging environment. My goal is to contribute to data-driven decision-making processes and drive meaningful impact through my work.
+---
 
-## Contact 📬
+## 🛠️ Skills
 
+- **Excel** – Data cleaning, Pivot Tables, formulas, analysis  
+- **SQL** – Complex queries, joins, aggregations, data analysis  
+- **Python** – Pandas, NumPy for data analysis  
+- **Power BI** – Dashboard creation, DAX, data visualization  
+- **Statistics** – Data interpretation and analysis
 
-- **Email:** sreeramt25@gmail.com
+---
+
+## 🎯 Career Goals
+
+I’m currently seeking opportunities in **Data Analytics / Data Science** where I can apply analytical thinking, work with real-world data, and continue learning in a challenging environment.
+
+---
+
+## 📬 Contact
+
+📧 **Email:** sreeramt25@gmail.com
